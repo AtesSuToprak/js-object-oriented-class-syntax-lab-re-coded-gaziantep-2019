@@ -31,6 +31,9 @@ class Ceo extends boardMembers {
   }
 }
 
+let polishedBoardMember = new BoardMember("Mr. Polished", "New York", "law");
+let backSlappingGene = new BoardMember("Mr. Gene", "Delaware", "business");
+  
 
 
 /*describe('boardMembers', function() {
