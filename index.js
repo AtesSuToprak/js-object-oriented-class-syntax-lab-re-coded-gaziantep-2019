@@ -1,3 +1,11 @@
+let polishedBoardMember;
+let backSlappingGene;
+
+function boardMembers(name, homeState, training) {
+  polishedBoardMember = new BoardMember("Mr. Polished", "New York", "law");
+  backSlappingGene = new BoardMember("Mr. Gene", "Delaware", "business");
+}
+
 class boardMembers {
   constructor(name, homeState, training){
     this.name = name;
