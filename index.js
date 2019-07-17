@@ -8,9 +8,12 @@ class boardMembers {
     return 'No, I must disagree';
   }
   approve() {
-    return 'You can do that!'
+    return 'You can do that!';
   }
   doCharity() {
+    return 'I like to help people.';
+  }
+  releasePressStatement() {
     return ''
   }
 }
